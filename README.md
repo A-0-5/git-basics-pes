@@ -5,7 +5,7 @@ This repo will help you get started with basics of git, here we will learn about
 2. Connecting git with Github
 
 ## Getting Started
-1. First for this repository into your account
+1. First fork this repository into your account
 2. Then clone it locally using 
    ```bash
    git clone <repository-url>
