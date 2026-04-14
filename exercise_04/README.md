@@ -1,5 +1,5 @@
 ## Scenario
-Its vacation season , another team mate of yours is on vacation and wants you to add some more comments to a file in their branch `john_does_vacation` and raise a PR. Before going on vacation they mentioned to you that their branch was a bit out of date with main and had to update other wise the PR cant be merged due to conflicts. So your task is now to checkout john doe's branch , make the necessary changes and raise a PR.
+Its vacation season , another team mate of yours is on vacation and wants you to add some more comments to a file in their branch `john_does_vacation` and raise a PR. Before going on vacation they mentioned to you that their branch was a bit out of date with main and had to update other wise the PR cant be merged due to conflicts. So your task is now to checkout john doe's branch , make the necessary changes (uncomment code) and raise a PR.
 
 ### 1. Get the branch
 ```bash
