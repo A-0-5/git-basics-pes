@@ -1,4 +1,4 @@
-# Git Basics 
+# Git Basics - Hello world
 This repo will help you get started with basics of git, here we will learn about 
 
 1. Using git in your day to day workflows
